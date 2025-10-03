@@ -31,10 +31,10 @@ This project uses the CrewAI's multi-agent framework to organize the workflow of
 
 **1.Data Analyst Agent** Monitors and analyzes real-time and historical price market.
 **2.Market Sentiment Analyst Agent** Scrapes and analyse sentiment from Stocktwits discussions and social media, and applies Natural Language Process (NLP) sentiment scoring.
-**3. Trading Strategy Developer Agent** Develops and evaluates trading strategies.
-**4. Execution Agent** Suggest optimal trade execution strategies and timing based on strategy output.
-**5. Risk Management Agent** Evaluate the risks associated with trading strategies and and provide insights.
-**6. Report Agent** Compiles analysis by synthesizing insights into readable reports.
+**3.Trading Strategy Developer Agent** Develops and evaluates trading strategies.
+**4.Execution Agent** Suggest optimal trade execution strategies and timing based on strategy output.
+**5.Risk Management Agent** Evaluate the risks associated with trading strategies and and provide insights.
+**6.Report Agent** Compiles analysis by synthesizing insights into readable reports.
 
 ### Installation and Setup
 
