@@ -11,6 +11,7 @@ This project uses the CrewAI's multi-agent framework to organize the workflow of
 - **Multi-agent Architecture:** Six AI agents handle specific financial analysis tasks, working together in a harmonic workflow.
 -**Intelligent Automation:** Searching, gathering and processing market and sentiment data from multible sources with minimal amnual intervention.
 -**Social Sentiment Analysis:** Extracting and analysing sentiment automatically from the Stocktwits social platform.
+  
 -**Comprehensive Risk Evaluation:**  A detailed analysis for risk with recommendations for mitigation.
 -**Extansible and Scalable:** An adaptable framework allows for easy addition of new agents, asset types, or reporting modules.
 -**All-inclusive Reporting:** Generating a professional automated Markdown/HTML reports with excutive summaries and practical insights.
