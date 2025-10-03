@@ -29,7 +29,7 @@ This project uses the CrewAI's multi-agent framework to organize the workflow of
 
 ### Agent Architecture
 
-**1. Data Analyst Agent** Monitors and analyzes real-time and historical price market.
+** 1. Data Analyst Agent** Monitors and analyzes real-time and historical price market.
 **2. Market Sentiment Analyst Agent** scrapes and analyse sentiment from Stocktwits discussions and social media, and applies Natural Language Process (NLP) sentiment scoring.
 **3. Trading Strategy Developer Agent** Develops and evaluates trading strategies.
 **4. Execution Agent** Suggest optimal trade execution strategies and timing based on strategy output.
